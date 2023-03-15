@@ -1,5 +1,3 @@
-### Hi there 👋
-
 </div>
 <div align="center">
   <a href="https://github.com/LedoVeras">
