@@ -1,7 +1,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/LedoVeras">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LedoVeras&layout=compact&langs_count=100&theme=tokyonight"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LedoVeras&layout=compact&langs_count=100&hide=html,css&theme=tokyonight"/>
 </div>
   <br>
 <div style="display: inline_block" align="center"><br>
