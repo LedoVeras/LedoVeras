@@ -23,7 +23,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" title="gamemaker" height="40" width="40" src="https://theme.zdassets.com/theme_assets/207189/229b641b59b7faefd9fdd85bac8c8bb6b4b07490.png">
+  <img align="center" title="gamemaker" height="40" width="40" src="https://www.moosoft.com/wp-content/uploads/2022/11/gamemaker-studio-98765.png">
   <img align="center" title="unity" height="40" width="40" src="https://i.redd.it/tu3gt6ysfxq71.png">
   <img align="center" title="haxe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg">
 </div>
